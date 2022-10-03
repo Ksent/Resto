@@ -500,13 +500,13 @@ img {
   left: 1px;
 }
 
-.dishes-star-input:focus ~ .dishes-star {
+.dishes-star-input:focus ~ .dishes-star svg {
   stroke: #555555;
   stroke-width: 2px;
 }
 
-.dishes-star-input:checked ~ .dishes-star,
-.dishes-star-input:hover ~ .dishes-star {
+.dishes-star-input:checked ~ .dishes-star svg,
+.dishes-star-input:hover ~ .dishes-star svg {
   fill: #f1df1a;
   transition: 0.3s ease-in;
   transform: scale(-1, 1);
