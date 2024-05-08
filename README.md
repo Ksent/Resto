@@ -1,5 +1,5 @@
 # Resto
-Homepage for the restaurant
+Home page for the restaurant
 
 ### Описание:
 * SVG-спрайт
